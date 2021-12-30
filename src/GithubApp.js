@@ -1,7 +1,7 @@
-import Repos from "./components/Repos";
+import Repos from "./components/repos/Repos";
 import NoUser from "./components/noUser/NoUser";
 import Header from "./components/header/Header";
-import Profile from "./components/Profile";
+import Profile from "./components/profile/Profile";
 import useGithub from "./hooks/github-hooks";
 import WrapperLayout from "./styles";
 
