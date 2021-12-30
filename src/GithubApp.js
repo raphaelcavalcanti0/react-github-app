@@ -8,7 +8,6 @@ import WrapperLayout from "./styles";
 const GithubApp = () => {
   const { githubState } = useGithub()
 
-
   return (
     <WrapperLayout>
       <Header />
